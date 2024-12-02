@@ -58,9 +58,6 @@
     <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ank1taS&show_icons=true&locale=en&layout=compact&theme=radical">
     </td>
-    <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ank1taS&theme=radical" />
-    </td>
 </table>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ank1taS&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green"/>  -->
