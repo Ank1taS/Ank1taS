@@ -52,16 +52,14 @@
 <br/>
 
 <table>
-<!--   <colgroup>
-            <col width="50%">
-            <col width="50%">
-        </colgroup> -->
-    <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ank1taS&show_icons=true&theme=radical" width = "500", height = "400">
+  <tr>    
+    <td width="50%" height ="300">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ank1taS&show_icons=true&theme=radical" width = "100%", height = "100%">
     </td>
-    <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ank1taS&show_icons=true&locale=en&layout=compact&theme=radical" width = "500", height = "400">
+    <td width="50%" height ="300">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ank1taS&show_icons=true&locale=en&layout=compact&theme=radical" width = "100%", height = "100%">
     </td>
+  </tr>
 </table>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ank1taS&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=blue-green"/>  -->
