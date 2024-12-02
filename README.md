@@ -53,10 +53,10 @@
 
 <table>
   <tr>    
-    <td width="50%" height ="300">
+    <td width="50%" height ="200">
         <img src="https://github-readme-stats.vercel.app/api?username=Ank1taS&show_icons=true&theme=radical" width = "100%", height = "100%">
     </td>
-    <td width="50%" height ="300">
+    <td width="50%" height ="200">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ank1taS&show_icons=true&locale=en&layout=compact&theme=radical" width = "100%", height = "100%">
     </td>
   </tr>
