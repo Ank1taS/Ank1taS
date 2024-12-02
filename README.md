@@ -52,11 +52,15 @@
 <br/>
 
 <table>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ank1taS&show_icons=true&theme=radical"/>
+  <colgroup>
+            <col width="50%">
+            <col width="50%">
+        </colgroup>
+    <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ank1taS&show_icons=true&theme=radical" width = "500", height = "400">
     </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ank1taS&show_icons=true&locale=en&layout=compact&theme=radical">
+    <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ank1taS&show_icons=true&locale=en&layout=compact&theme=radical" width = "500", height = "400">
     </td>
 </table>
 
