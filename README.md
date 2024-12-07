@@ -2,7 +2,7 @@
 
 ### Hello World!🪄
 
-### I am Ankita Sahoo, Passionate about exploring new technologies and leveraging machine learning to solve real-world problems. I recently completed my MCA at [OUAT](https://www.cet.edu.in/) and eager to contribute to innovative projects.
+### I am Ankita Sahoo, Passionate about exploring new technologies and leveraging machine learning to solve real-world problems. I recently completed my MCA at [OUTR](https://www.cet.edu.in/) and eager to contribute to innovative projects.
 
 <hr>
 
